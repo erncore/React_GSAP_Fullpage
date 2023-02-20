@@ -1,0 +1,19 @@
+.home {
+    padding-top: var(--headerHeight);
+    box-sizing: border-box;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+}
+
+.content {
+    max-width: 30%;
+    color: #fff;
+    font-size: 2.4rem;
+    line-height: 1.4em;
+
+    opacity: 0;
+}
